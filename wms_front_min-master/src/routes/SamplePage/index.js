@@ -1,7 +1,7 @@
 import React from "react";
 import { Tag, Table } from "antd";
 import moment from 'moment';
-import ReactJson from 'react-json-view'
+import ReactJson from 'react-json-view';
 
 
 
